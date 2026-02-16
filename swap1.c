@@ -6,7 +6,7 @@ int main()
 
     int temp;
     temp = num1;
-    num1 = num2;
+    num 1 = num2;
     num2 = temp;
     printf("num1 = %d\n,n",num1);
     printf("num2 = %d\n",num2);
